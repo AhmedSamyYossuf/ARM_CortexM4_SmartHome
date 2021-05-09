@@ -1,0 +1,12 @@
+App.c:27:6:getPassword	32	static
+App.c:39:9:confirmPassword	24	static
+App.c:60:6:FirstTimePassword	16	static
+App.c:85:6:SavedPassword	16	static
+App.c:117:6:ChangePassword	8	static
+App.c:123:6:DoorLock	16	static
+App.c:151:6:Temp_Sensor	48	static
+App.c:177:6:InDoor_Ultra	16	static
+App.c:211:6:EXTI1_IRQHandler	8	static
+App.c:215:6:EXTI15_10_IRQHandler	8	static
+App.c:226:6:WifiApp	8	static
+App.c:277:6:System_Init	16	static
